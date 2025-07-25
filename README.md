@@ -6,7 +6,7 @@ A modern, scalable, and customizable e-commerce platform built on the MERN stack
 
 ## 🚀 Overview
 
-MERN Commerce delivers a full-featured, real-world online shopping experience, supporting everything from product listings and shopping carts to order management and administration. Built using industry-standard, open-source technologies, it provides a fast, secure, and easily extendable foundation for your e-commerce business.
+My MERN eCommerce delivers a full-featured, real-world online shopping experience, supporting everything from product listings and shopping carts to order management and administration. Built using industry-standard, open-source technologies, it provides a fast, secure, and easily extendable foundation for your e-commerce business.
 
 ---
 
